@@ -25,7 +25,7 @@ SECRET_KEY = 'cmow(*(0f@t(r8+n!@f!o&^8zz(=r(1tlie_7bm3v03ei4gd@o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['52.78.87.114']
+ALLOWED_HOSTS = ['52.78.87.114', 'localhost']
 
 
 # Application definition
